@@ -1,0 +1,1 @@
+def calculate_pnl(): pass
